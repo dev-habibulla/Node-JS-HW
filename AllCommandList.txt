@@ -1,0 +1,11 @@
+create menu
+
+create banner
+
+create about
+  
+delete menu
+
+delete banner  
+
+delete about
